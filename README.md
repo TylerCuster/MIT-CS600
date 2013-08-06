@@ -4,10 +4,7 @@ MIT-CS600
 Coursework from MIT's CS 6.00 and CS 6.00SC on OpenCourseWare
 -------------------------------------------------------------
 
-
-&nbsp;
-
-
+Here's an outline of the work I completed for the Fall 2008 and Spring 2011 sessions of the course:
 
 - __ps1:__ simple primality test
 
