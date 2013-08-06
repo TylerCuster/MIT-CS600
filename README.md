@@ -2,33 +2,37 @@ MIT-CS600
 =========
 
 Coursework from MIT's CS 6.00 and CS 6.00SC on OpenCourseWare
+-------------------------------------------------------------
 
-Outline of coursework:
 
-ps1: simple primality test
+&nbsp;
 
-ps2: application of Diophantine equations
 
-ps3: application of string matching
 
-ps4: simulating a retirement fund.
+- __ps1:__ simple primality test
 
-ps4_spring: multi-level Caesar cipher decryption
+- __ps2:__ application of Diophantine equations
 
-ps5: Ghost word-game for 2 human players
+- __ps3:__ application of string matching
 
-ps5_spring: RSS feed filter using feedparser Python library
+- __ps4:__ simulating a retirement fund.
 
-ps6: Ghost word-game with computer player
+- __ps4_spring:__ multi-level Caesar cipher decryption
 
-ps6_spring: simulating room-cleaning robots
+- __ps5:__ Ghost word-game for 2 human players
 
-ps7_spring: simulating the spread of disease and virus population dynamics using the pylab library
+- __ps5_spring:__ RSS feed filter using feedparser Python library
 
-ps8_spring: virus population dynamics and drug resistance
+- __ps6:__ Ghost word-game with computer player
 
-ps9: classes and methods
+- __ps6_spring:__ simulating room-cleaning robots
 
-ps10: GUI word-game
+- __ps7_spring:__ simulating the spread of disease and virus population dynamics using the pylab library
 
-ps10_spring: analyzing U.S. Census data with k-means clustering
+- __ps8_spring:__ virus population dynamics and drug resistance
+
+- __ps9:__ classes and methods
+
+- __ps10:__ GUI word-game
+
+- __ps10_spring:__ analyzing U.S. Census data with k-means clustering
